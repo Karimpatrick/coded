@@ -1,0 +1,54 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    background-color:black;
+    color: white;
+    background-position: center;
+    background: color-mix(in srgb-linear, red 60, black 40);
+}
+.list{
+    display: flex;
+    list-style: none;
+    margin: 0;
+}
+.list li{
+    padding: 30px;
+    font-weight: 700;
+    font-size: 20px;
+    color: lightgrey;
+    list-style-image: none;
+}
+.body{
+background-image: url(Moonbeam\ 2.jpg);
+}
+.nav{
+    text-decoration-color: white;
+    text-align: center;
+    font-size: large;
+    color: white;
+    display: flex;
+    justify-content: center;
+
+}
+.navi{
+text-decoration-color: white;
+text-align: center;
+font-weight: 400;
+font-size: larger;
+color: white;
+display: flex;
+justify-content: center;
+}
+.ifra{
+  
+    float: right;
+    color: whitesmoke;
+    
+}
+.divine{
+    color: white;
+    float: right;
+}
+.footer{
+    color: white;
+}
