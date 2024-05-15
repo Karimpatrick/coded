@@ -2,6 +2,7 @@
     display: flex;
     justify-content: center;
     background-color:black;
+    font-family: sans-serif;
     color: white;
     background-position: center;
     background: color-mix(in srgb-linear, red 60, black 40);
