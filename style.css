@@ -31,6 +31,11 @@ background-image: url(Moonbeam\ 2.jpg);
     justify-content: center;
 
 }
+.img{
+    border-radius: 600px;
+    margin: 0px;
+    padding: 5px;
+}
 .navi{
 text-decoration-color: white;
 text-align: center;
@@ -52,4 +57,11 @@ justify-content: center;
 }
 .footer{
     color: white;
+}
+.Contact{
+    font-size: 20px;
+    color: white;
+}
+.click{
+ color: green;
 }
